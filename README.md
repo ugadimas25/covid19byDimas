@@ -15,9 +15,7 @@ Daftar Isi
 
 
 Pengantar
-------------
-
-Ini merupakan project akhir dari tugas Web Geo.  Project ini terkait dengan visualisasi dengan memanfaatkan MapBox library dan beberapa JavaScript library lainnya untuk memvisualisasikan terkait dengan Status Indeks Kualitas Udara dengan Kasus COVID-19 Global.
+Project ini terkait dengan visualisasi dengan memanfaatkan MapBox library dan beberapa JavaScript library lainnya untuk memvisualisasikan terkait dengan Status Indeks Kualitas Udara dengan Kasus COVID-19 Global.
 
 
 Data
@@ -44,7 +42,6 @@ bluebird.min.js
 Live Demo
 ---------------
 Best Viewed with Microsoft Edge
-https://isnain-dr.github.io/
 ![](https://isnain-dr.github.io/img/webgeo_demo.gif)
 
 Issue
