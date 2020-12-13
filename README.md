@@ -15,6 +15,7 @@ Daftar Isi
 
 
 Pengantar
+------------
 Project ini terkait dengan visualisasi dengan memanfaatkan MapBox library dan beberapa JavaScript library lainnya untuk memvisualisasikan terkait dengan Status Indeks Kualitas Udara dengan Kasus COVID-19 Global.
 
 
